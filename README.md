@@ -52,12 +52,12 @@
         <span>Javascript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-    </tr>  
-    <tr valign="top">
       <td width="20%" align="center">
         <span>Mongo</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
       </td>
+    </tr>  
+    <tr valign="top">
       <td width="20%" align="center">
         <span>Postgres</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
@@ -74,12 +74,12 @@
         <span>GraphQL</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/graphql.svg">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="20%" align="center">
         <span>Node</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
+    </tr>
+    <tr valign="top">
       <td width="20%" align="center">
         <span>Flask</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/flask.svg">
@@ -96,12 +96,12 @@
         <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="20%" align="center">
         <span>Vue</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
+    </tr>
+    <tr valign="top">
       <td width="20%" align="center">
         <span>Angular</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg">
@@ -109,10 +109,6 @@
       <td width="20%" align="center">
         <span>Web3.js</span><br><br><br>
         <img height="64px" src="https://c.gitcoin.co/web3-01.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Ethers.js</span><br><br><br>
-        <img height="64px" src="https://esp.ethereum.foundation/static/f8b753af4c23eb1e1c0896b62a37de8a/69585/ethers-js.png">
       </td>
       <td width="20%" align="center">
         <span>Typescript</span><br><br><br>
@@ -141,9 +137,9 @@ As a senior blockchain developer with 4+ years of experience in Solidity & 2+ ye
 
 
 I hope you’ll be interested in my career/ability/experience.
-Please don't hesitate to reach out to me via email or skype/discord.
+Please don't hesitate to reach out to me via email or skype.
 *       Email :       krylro@gmail.com
-        Skype :       live:krylr
+        Skype :       live:krylro
        
 Thank you!
 
