@@ -2,7 +2,7 @@
 ## Welcome!  💪    
 ## Thank you for your interest in my profile! 👋
 
-### Blockchain, Smart Contract, Ethereum, Bitcoin, Polkadot, Solana, Cardano, Binance Smart Chain, Chainlink, dApp, Solidity, Rust, Golang, Python, ElectronJS, POS(Point of Sale), C# WPF XAML UWP, React, Vue, Angular, Javascript/Typescript, Node.js, Web3.js, Ethers.js,  GraphQL
+### Blockchain, Smart Contract, Ethereum, Bitcoin, Polkadot, Solana, Cardano, Binance Smart Chain, Chainlink, dApp, Solidity, Rust, Golang, Python, ElectronJS, React, Vue, Angular, Javascript/Typescript, Node.js, Web3.js, Ethers.js,  GraphQL
 
 <br/>
 
