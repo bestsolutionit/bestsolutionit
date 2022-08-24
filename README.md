@@ -1,4 +1,4 @@
-# Senior Blockchain Smart Contract Developer
+# Senior Blockchain/Full Stack Developer
 ## Welcome!  💪    
 ## Thank you for your interest in my profile! 👋
 
