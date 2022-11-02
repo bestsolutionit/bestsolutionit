@@ -1,8 +1,8 @@
-# Blockchain/Full Stack Developer
+# Blockchain/Web3 Developer
 ## Welcome!  💪    
 ## Thank you for your interest in my profile! 👋
 
-### Blockchain, Smart Contract, Ethereum, Polygon, Bitcoin, Polkadot, Solana, Cardano, Binance Smart Chain, Chainlink, dApp, Solidity, Cosmos SDK/Tendermint, Rust, Golang, Python, ElectronJS, React, Vue, Angular, Javascript/Typescript, Node.js, Web3.js, Ethers.js,  GraphQL
+### Blockchain, Smart Contract, Ethereum, Polygon, Bitcoin, Polkadot, Solana, Cardano, Binance Smart Chain, Chainlink, dApp, Solidity,  React, Vue, Angular, Javascript/Typescript, Node.js, Web3.js, Ethers.js,  GraphQL, Cosmos SDK/Tendermint, Rust, Golang, Python, ElectronJS
 
 <br/>
 
