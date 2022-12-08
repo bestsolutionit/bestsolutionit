@@ -80,32 +80,32 @@
       </td>
     </tr>
     <tr valign="top">
-      <td width="20%" align="center">
+<!--       <td width="20%" align="center">
         <span>Flask</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/flask.svg">
-      </td>
-      <td width="20%" align="center">
+      </td> -->
+<!--       <td width="20%" align="center">
         <span>Django</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
-      </td>
-      <td width="20%" align="center">
+      </td> -->
+<!--       <td width="20%" align="center">
         <span>𝗝𝗮𝘃𝗮</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
+      </td> -->
       <td width="20%" align="center">
         <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
-      <td width="20%" align="center">
+<!--       <td width="20%" align="center">
         <span>Vue</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-      </td>
+      </td> -->
     </tr>
     <tr valign="top">
-      <td width="20%" align="center">
+<!--       <td width="20%" align="center">
         <span>Angular</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg">
-      </td>
+      </td> -->
       <td width="20%" align="center">
         <span>Web3.js</span><br><br><br>
         <img height="64px" src="https://c.gitcoin.co/web3-01.svg">
