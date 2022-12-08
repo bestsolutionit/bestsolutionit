@@ -137,9 +137,7 @@ As a senior blockchain developer with 4+ years of experience in Solidity & 2+ ye
 
 
 I hope you’ll be interested in my career/ability/experience.
-Please don't hesitate to reach out to me via email or skype.
-*       Email :       krylro@gmail.com
-        Skype :       live:krylro
+
        
 Thank you!
 
