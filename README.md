@@ -100,12 +100,6 @@
         <span>Vue</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td> -->
-    </tr>
-    <tr valign="top">
-<!--       <td width="20%" align="center">
-        <span>Angular</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg">
-      </td> -->
       <td width="20%" align="center">
         <span>Web3.js</span><br><br><br>
         <img height="64px" src="https://c.gitcoin.co/web3-01.svg">
@@ -114,6 +108,12 @@
         <span>Typescript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
       </td>
+    </tr>
+    <tr valign="top">
+<!--       <td width="20%" align="center">
+        <span>Angular</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg">
+      </td> -->
     </tr>
   </tbody>
 </table>
